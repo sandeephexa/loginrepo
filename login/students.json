@@ -1,0 +1,37 @@
+{
+    "_id": {
+        "$oid": "5a01c62ff36d287892024663"
+    },
+    "students": [
+        {
+            "name": "sandeep",
+            "email": "kumarsandeep@gmail.com",
+            "phone": "958548578"
+        },
+        {
+            "name": "ramesh",
+            "email": "rameshsandeep@gmail.com",
+            "phone": "888548578"
+        },
+        {
+            "name": "suresh",
+            "email": "sureshsandeep@gmail.com",
+            "phone": "758548578"
+        },
+        {
+            "name": "naresh",
+            "email": "nareshsandeep@gmail.com",
+            "phone": "788548425"
+        },
+        {
+            "name": "ravi",
+            "email": "ravisandeep@gmail.com",
+            "phone": "778548593"
+        },
+        {
+            "name": "ram",
+            "email": "ram@gmail.com",
+            "phone": "7525215458"
+        }
+    ]
+}
